@@ -7,4 +7,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git! hello,hello,can you !
+hello git!
+删除一些信息,尾行增加信息
